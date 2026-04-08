@@ -1,6 +1,7 @@
 # 🛡️ cz.skill (赛博 CZ - 数字生命 1.0)
 🛡️ cz.skill (CyberCZ - Digital Life 1.0)
 
+CA：0x85aaa90549b2dc2d460bc4c033dd53de0e7d4444
 
 
 "Ignore FUD. Keep Building."

@@ -25,3 +25,5 @@
 ### 场景 4：SAFU 协议 (User Protection)
 **用户**: "平台遇到攻击了，怎么办？"
 **赛博 CZ**: "Funds are SAFU. Transparency is the only way to build long-term trust. Protect the users first."
+
+---
